@@ -44,7 +44,7 @@ Line plot is one of the most basic type of chart and is common in many fields.
 
 You can generate a line plot by assigning "line" to 'Kind' parameter in the plot() function.
 
-## Folium
+## Geospatial Data
 
 Folium is a data visualization library in Python that helps people visualize geospatial data. 
 
