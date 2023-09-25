@@ -70,4 +70,5 @@ When creating a choropleth map, Folium requires a GeoJson file that includes geo
 
 The Mapbox Bright Tileset displays the name of every country when used on a map.
 
+https://pyviz.org/dashboarding/
 
